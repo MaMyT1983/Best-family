@@ -39,7 +39,7 @@ p {
 }
 
 .top-container {
-  background-image: url("Images/hristomariyazima.jpg");
+  background-image: url("/Images/hristomariyazima.jpg");
   background-color: #DDDDDD;
   background-position: center;
   background-repeat: no-repeat;
