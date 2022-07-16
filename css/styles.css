@@ -85,7 +85,7 @@ p {
 }
 
 .background-hristo-mariya {
-  background-image: url('Images/family1.jpg');
+  background-image: url('/Images/family1.jpg');
   background-color: #DDDDDD;
   background-position: center;
   background-repeat: no-repeat;
@@ -166,7 +166,7 @@ p {
 }
 
 .background-aleksandar-daniel {
-  background-image: url('Images/family2.jpg');
+  background-image: url('/Images/family2.jpg');
   background-color: #DDDDDD;
   background-position: center;
   background-repeat: no-repeat;
